@@ -2,3 +2,4 @@ LLISTAT D'ALUMNES
 
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
+PC 2 6 | Iván Gómez Navarro | Arthur the King
